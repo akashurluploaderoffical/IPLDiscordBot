@@ -59,5 +59,7 @@ Now you are ready to run the bot. The bot runs in blocking loop, whicb will bloc
 ```bash
 $ python3 bot.py
 ```
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/dhruvv/IPLDiscordBot)
+
 
 Your bot should now, if in a server, respond to commnads, prefixed with `%`! Have fun!
